@@ -16,7 +16,7 @@ pip install -r requirements.txt
 これで、必要なパッケージがインストールされ、上記のPythonコードを実行するための準備が整います。
 
 #GUI
-スクリーンショットDEMO
+スクリーンショットDEMO  
 ![b8b0332110dba58e4d2d7fab998aab2b](https://github.com/user-attachments/assets/c515ba95-bb96-435f-aad4-062aaba6a02c)
 
 
